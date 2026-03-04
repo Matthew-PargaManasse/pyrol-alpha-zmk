@@ -1,0 +1,9 @@
+file_format: "1"
+id: alpha
+name: Alpha
+type: shield
+url: https://github.com/PyrooL/Alpha
+requires: [pro_micro]
+exposes:
+features:
+  - keys
